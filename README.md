@@ -46,6 +46,3 @@ A visually captivating website inspired by **[Zentry](https://zentry.com/)**, fe
 👉 **Completely Responsive**: Flawless adaptation across all devices, ensuring a consistent experience.
 
 and many more, including code architecture and reusability
-
-## Created By
-Asad Raza - Creative Developer
